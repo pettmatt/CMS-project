@@ -29,7 +29,7 @@ Administration:
 		- If no, how the CMS interfaces should be separated? In different subdomains or paths?
 			- Does this even matter at the end of the day, or does this introduce too much complexity?
 
-## Spreadsheet
+## Flowchart
 
 ## Data structures
 
