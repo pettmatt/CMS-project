@@ -28,3 +28,9 @@ Administration:
 		- If yes, the CMS interface might be less manageable
 		- If no, how the CMS interfaces should be separated? In different subdomains or paths?
 			- Does this even matter at the end of the day, or does this introduce too much complexity?
+
+## Spreadsheet
+
+## Data structures
+
+## Data flow
